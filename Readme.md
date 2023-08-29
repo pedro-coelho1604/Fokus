@@ -5,4 +5,9 @@ JavaScript: manipulando elementos no DOM
 
 ## Tecnologias e Técnicas
 * JavaScript
-* Metodo DOM
+* Métodos DOM
+* InnerHTML 
+* setAttribute 
+* classList 
+* querySelector 
+* EventList
